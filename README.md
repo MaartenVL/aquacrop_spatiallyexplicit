@@ -1,5 +1,5 @@
 # Aquacrop_spatiallyexplicit
-AquaCrop adaptations made for paper Van Loo &amp; Verstraeten 202X (submitted)
+AquaCrop adaptations made for paper Van Loo &amp; Verstraeten 2021: https://www.mdpi.com/2073-4441/13/15/2023/htm
 
 In this study , adaptions were made to the AquaCrop and run for the last 4000 years to 
 simulate the impact of climate and land cover changes, as well as soil dynamics, 
